@@ -1,3 +1,5 @@
+// 1.Design a BankAccount class with private variables.
+
 package intern.com;
 
 import java.util.ArrayList;
