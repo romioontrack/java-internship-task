@@ -12,6 +12,7 @@ public class BankApp {
         acc1.deposit(2000);
         acc1.withdraw(1500);
 
+        
         acc2.deposit(1000);
         acc2.withdraw(5000); // Invalid transaction
 
