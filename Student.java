@@ -5,6 +5,7 @@ public class Student {
     String name;
     int age;
     double marks;
+    
 
     public Student(int id, String name, int age, double marks) {
         this.id = id;
